@@ -5,7 +5,8 @@
 
 #Features
 -Login/Sign Up
-  -sign /sign up from
+  -sign in
+  - sign up from
   -redirect to browse page
   -
 -Browse(after authentication)
